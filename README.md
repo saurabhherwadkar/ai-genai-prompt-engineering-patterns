@@ -2,6 +2,19 @@
 
 Production prompt engineering framework with CoT, few-shot, self-consistency patterns, A/B testing, regression testing, and prompt versioning.
 
+## Key Learning Objectives
+
+- Understand and implement Chain-of-Thought (CoT) prompting to guide LLMs through step-by-step reasoning for complex tasks
+- Design effective few-shot prompts by selecting and structuring input-output examples for classification and formatting tasks
+- Apply self-consistency sampling with majority voting to improve answer reliability and confidence
+- Build reusable prompt templates using Jinja2 for consistent, maintainable prompt generation across projects
+- Implement structured output prompting techniques to extract well-typed, schema-validated responses from LLMs
+- Design system prompts that establish clear behavioral constraints, personas, and output formatting rules
+- Conduct statistically rigorous A/B testing to compare prompt variants and select optimal strategies
+- Build regression testing frameworks that detect prompt quality degradation across model updates and prompt changes
+- Architect production-grade prompt engineering APIs with versioning, observability, and deployment best practices
+- Apply prompt compression and optimization techniques to reduce token usage while preserving output quality
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Project Structure](#project-structure)
