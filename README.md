@@ -2,7 +2,7 @@
 
 Production prompt engineering framework with CoT, few-shot, self-consistency patterns, A/B testing, regression testing, and prompt versioning.
 
-## Key Learning Objectives
+## Objectives
 
 - Understand and implement Chain-of-Thought (CoT) prompting to guide LLMs through step-by-step reasoning for complex tasks
 - Design effective few-shot prompts by selecting and structuring input-output examples for classification and formatting tasks
